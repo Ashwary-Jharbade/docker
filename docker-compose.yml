@@ -1,0 +1,6 @@
+version: "2.27.1"
+services:
+  appone:
+    image: ashwary/nodeapp:0.2
+    ports:
+      - 8000:8000
